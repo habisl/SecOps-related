@@ -1,5 +1,5 @@
 # SecOps-related
-useful resources for IT security
+useful resources for SecOps related work
 
 
 #### Understanding Proxy Server
